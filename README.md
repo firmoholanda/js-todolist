@@ -1,6 +1,6 @@
 # 📃 js-todolist
 
-js-todolist
+JavaScript To-do list application
 
 
 
